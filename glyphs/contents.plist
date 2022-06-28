@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- References -->
+	<key>checkbox</key>
+	<string>checkbox.glif</string>
+	<key>tick</key>
+	<string>tick.glif</string>
+	<key>checkboxticked</key>
+	<string>checkboxticked.glif</string>
+
+	<!-- Actual test -->
+	<key>kernbox</key>
+	<string>kernbox.glif</string>
+	<key>kerntick</key>
+	<string>kerntick.glif</string>
+	<key>kernspace</key>
+	<string>kernspace.glif</string>
+	<key>kernzero</key>
+	<string>kernzero.glif</string>
+</dict>
+</plist>
